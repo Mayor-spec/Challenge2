@@ -1,0 +1,88 @@
+    img{
+       width: 320px;
+       height: 200px;
+      border-top-left-radius: 8px;
+      border-top-right-radius: 8px;
+       
+    }
+   h2{
+    
+       margin: 0 auto;
+       padding: 10px;
+       margin-left: 4%;  
+       color: grey; 
+   } 
+   h3{
+       margin: 0 auto;
+       padding: 10px;
+       margin-left: 0%;
+       font-family: "Montserrat", sans-serif;
+       font-size: 30px;
+       margin-left: 4%;
+       font-family: 'Ubuntu', sans-serif;
+     
+ 
+   }
+   p{
+       margin: 0 auto;
+       padding: 10px;
+       margin-left: 4%;
+       font-family: 'Lato', sans-serif;
+       font-family: 'Montagu Slab', serif;
+       color: grey;
+       font-size: 15px;
+   }
+   body{
+       background-color: hsl(30, 38%, 92%);
+   }
+   .group{
+    background-color: white;  
+    width: 320px;
+    height: 550px;
+    margin: 0 auto;
+    margin-left: 4%;
+    border-radius: 8px;
+    position: relative;
+    
+       
+      
+   }
+ 
+    .attribution { font-size: 11px; text-align: center; }
+    .attribution a { color: hsl(228, 45%, 44%); }
+.money{
+    color: hsl(158, 36%, 37%);
+   font-family: 'Montagu Slab', serif;
+    font-weight: bold;
+    font-size: 30px;
+    margin-left: 7%;
+    position: relative;
+}
+#sapa{
+    text-decoration: line-through;
+    font-family: 'Montagu Slab', serif;
+    font-size: 10px;
+    color: grey;
+    margin-left: 3%;
+    position: absolute;
+    margin-top: 5%;
+}
+button{
+    margin-left: 7%;
+    color: white;
+    background-color: hsl(158, 36%, 37%);
+    border: none;
+    border-radius: 3px;
+    width: 280px;
+    height: 40px;
+    font-family: 'Montagu Slab', serif;
+    margin-top: 5%;
+    position: relative;
+}
+.cart{
+position: absolute;
+    width: 15px;
+    height: 15px;
+    margin-left: -10%;
+    
+}
